@@ -5,7 +5,7 @@ about:
   head: 7f54478
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T02:39:24Z
+  collectedAt: 2026-09-08T05:37:05Z
 timeline:
   created: 2018-01-03
   lastCommit: 2024-11-30
@@ -79,7 +79,7 @@ total:
   commit: 169
 ---
 path: /home/runner/.x-repo/github.com/ctsrc/Pgen
-collectedAt: 2026-09-08T02:39:32Z
+collectedAt: 2026-09-08T05:37:18Z
 loc:
   Rust:
     code: 382
